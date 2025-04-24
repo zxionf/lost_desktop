@@ -5,8 +5,8 @@
     },
     "activeFile": "mp1.tmx",
     "expandedProjectPaths": [
-        ".",
-        "texture"
+        "texture",
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -19,8 +19,8 @@
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 495,
-                "y": 905
+                "x": 1011,
+                "y": 1157
             }
         }
     },
