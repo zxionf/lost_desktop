@@ -3,20 +3,23 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "D:/zxionf/LOST/1.0/assets/map/mp1.tmx",
+    "activeFile": "D:/zxionf/LOST/1.0/assets/map/basic.tsx",
     "expandedProjectPaths": [
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "D:/zxionf/LOST/1.0/assets/map/basic.tsx": {
-            "scaleInDock": 1
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "D:/zxionf/LOST/1.0/assets/map/mp1.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 0,
+            "scale": 0.33,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 73.66666666666666,
-                "y": 976.3333333333333
+                "x": 595.4545454545455,
+                "y": 656.0606060606061
             }
         },
         "basic.tsx": {
@@ -41,11 +44,13 @@
     "map.tileWidth": 16,
     "map.width": 64,
     "openFiles": [
-        "D:/zxionf/LOST/1.0/assets/map/mp1.tmx"
+        "D:/zxionf/LOST/1.0/assets/map/mp1.tmx",
+        "D:/zxionf/LOST/1.0/assets/map/basic.tsx"
     ],
     "project": "untitled.tiled-project",
     "recentFiles": [
         "D:/zxionf/LOST/1.0/assets/map/mp1.tmx",
+        "D:/zxionf/LOST/1.0/assets/map/basic.tsx",
         "basic.tsx",
         "mp1.tmx"
     ],
